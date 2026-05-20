@@ -1,0 +1,1 @@
+A programom a Tomb of the Mask nevezetű telefonos játékra épül. A játék lényege, hogy különböző nehézségű pályákon sikeresen eljuttassuk a sárga színű karakterünket a célba. Ezt a pályák labirintusszerű felépítése nehezíti, hiszen a falakkal körülvett terekben okosan kell faltól falig csúszkálnunk ahhoz, hogy elérjük a célt.
